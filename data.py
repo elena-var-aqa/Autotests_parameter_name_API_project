@@ -13,6 +13,6 @@ user_body = {
 
 kit_body = {
     "cardId": 1,
-    "name": "Яндекс набор"
+    "name": "Новый набор"
 }
 
